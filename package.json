@@ -1,5 +1,5 @@
 {
-"name": "Rxhl-Official",
+"name": "Aga-Official",
 "version": "3.1.0",
 "description": "up",
 "main": "run.js",
@@ -7,7 +7,7 @@
 "scripts": {
 "start": "node run.js"
 },
-"author": "Rxhl-Official",
+"author": "Aga-Official",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/keyed-db": "^0.2.4",
